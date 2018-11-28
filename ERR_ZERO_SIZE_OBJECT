@@ -1,0 +1,120 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<HTML><HEAD><TITLE>Endian Firewall -  The requested URL could not be retrieved</TITLE>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<style type="text/css" media="screen">
+/* Stylesheet for endian firewall */
+/* Author: Raphael Vallazza */
+
+/* body */
+
+body {
+	margin: 0;
+	padding: 0;
+	padding-top: 3px;
+	background-color: #FFFFFF;
+	font-family: tahoma,verdana,arial,sans-serif;
+	background-repeat: repeat-x;
+	font-size: 11px;
+	color: #444;
+	min-width: 760px;
+}
+
+td {
+	font-family: tahoma,verdana,arial,sans-serif;
+	background-repeat: repeat-x;
+	font-size: 11px;
+	color: #444;
+	min-width: 760px;
+}
+
+h1, h2 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #ca232a;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 10px;
+}
+
+h3 {
+	width: inherit;
+	background-repeat: no-repeat;
+	border-right: 1px solid #ccc;
+	font-size: 10px;
+	font-weight: bold;
+	color: #656565;
+	margin: 0;
+	padding-left: 30px;
+	line-height: 20px;
+	display: block;
+}
+
+h4, h5 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #ca232a;
+}
+
+a {
+    text-decoration: underline;
+    color: #ca232b;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #000000;
+}
+	    					
+table {
+	border: 1px solid #ccc;
+}
+
+</style>
+
+
+</HEAD>
+<BODY>
+
+<br>
+<br>
+<CENTER>
+
+<table cellpadding="20" bgcolor="#efefef">
+<tr>
+<td align="center">
+<H1>ERRO</H1>
+
+<HR noshade size="1px">
+<P>
+<br>
+<STRONG>
+A URL requisitada não pode ser recuperada
+</STRONG><br>
+Enquanto tentava recuperar a URL:<br>
+<A HREF="%U">%U</A>
+<br>
+O seguinte erro foi encontrado:
+<br>
+<STRONG>Resposta de tamanho zero.
+
+</STRONG>
+</p>
+<br>
+
+<P>
+Squid não recebeu nenhuma informação para esta requisição.
+</p>
+
+<P>Seu administrador é <A HREF="mailto:%w">%w</A>. </p>
+</td>
+</tr>
+</table>
+
+
+<P><font size=-3><a href="http://www.endian.it/">Endian Firewall</a> - Powered by <a href="http://www.squid-cache.org/" target="_blank">Squid</a></font>
+</center>
+</BODY>
+</HTML>
